@@ -6,4 +6,4 @@
           inputs:
             targetType: inline
             script: |
-              Echo "${{ parameters.bash_input }}"
+              Echo "it's working"
