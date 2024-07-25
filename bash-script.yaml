@@ -6,4 +6,4 @@
           inputs:
             targetType: inline
             script: |
-              echo "it's working" || env
+              echo "it's working" || df -h
