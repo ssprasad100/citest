@@ -6,4 +6,4 @@
           inputs:
             targetType: inline
             script: |
-              echo "it's working"
+              echo "it's working" || env
